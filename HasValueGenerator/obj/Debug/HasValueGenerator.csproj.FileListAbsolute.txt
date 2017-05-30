@@ -1,0 +1,7 @@
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\bin\Debug\HasValueGenerator.exe.config
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\bin\Debug\HasValueGenerator.exe
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\bin\Debug\HasValueGenerator.pdb
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\bin\Debug\System.Configuration.dll
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\obj\Debug\HasValueGenerator.csprojResolveAssemblyReference.cache
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\obj\Debug\HasValueGenerator.exe
+E:\Repo\GITHUB\HashValueGenerator\HasValueGenerator\obj\Debug\HasValueGenerator.pdb
